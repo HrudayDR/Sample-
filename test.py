@@ -1,3 +1,3 @@
 print("VVCE")
-print("LUFFY")
+print("SASUKE")
 print("NARUTO")
